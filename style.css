@@ -55,7 +55,7 @@ p{
 
 #showcase .bg-image {
     position: absolute;
-    background: #333 url('./img/board-circuit-board-circuits-825258.jpg');
+    background: #333 url('../img/board-circuit-board-circuits-825258.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -114,7 +114,7 @@ p{
 }
 
 #section-c .box:first-child {
-    background: #333 url('./img/board-circuit-board-circuits-825258.jpg');
+    background: #333 url('../img/board-circuit-board-circuits-825258.jpg');
     color: #fff;
     padding-bottom: 6em;
 }
