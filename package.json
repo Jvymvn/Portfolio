@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Final",
+  "main": "index.js",
+  "homepage": "https://Jvymvn.github.io/Portfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jvymvn/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jvymvn/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Jvymvn/Portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
