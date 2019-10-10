@@ -10,7 +10,7 @@ body{
     text-align: center;
 }
 
-img{
+.project-image{
     display: block;
     width: 100%;
     height: auto;
