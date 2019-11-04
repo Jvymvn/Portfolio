@@ -175,18 +175,18 @@ p{
 /* Media Queries */
 
 @media(min-width: 700px){
+    #showcase{
+        min-height: 400px;
+    }
+    
+    #showcase .bg-image {
+        height: 400px;
+    }
+
     .grid{
         display: grid;
         grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
     }
-
-    /* #section-a .content-icons {
-        columns: 2;
-        column-gap: 2em;
-    }
-    #section-a .content-icons a{
-        padding-top: 0;
-    } */
 
     .content-wrap, #section-b ul{
         grid-column: 2/4;
